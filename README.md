@@ -1,6 +1,6 @@
 # URL Phishing Detection
 
-URL Phishin Detection using Logistic Regression and Multinominal Naive Bayes Algorithms.
+URL Phishing Detection using Logistic Regression and Multinominal Naive Bayes Algorithms.
 
 ## Getting Started
 
